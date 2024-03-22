@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "taxiimg": "./scard/s003.jpg",
+        "base_rate": 10, 
+        "per_km": 7,
+        "class":"Town"
+    },
+    {
+        "id": 2,
+        "taxiimg": "./scard/s002.jpg",
+        "base_rate":12,
+        "per_km": 10,
+        "class":"Minivan"
+    },
+    {
+        "id": 3,
+        "taxiimg": "./scard/s001.jpg",
+        "base_rate": 15, 
+        "per_km": 14,
+        "class":"suv"
+    },
+    {
+        "id": 4,
+        "taxiimg": "./scard/s055.jpg",
+        "base_rate": 20,
+        "per_km": 20,
+        "class":"Limousine"
+    }
+    
+]
